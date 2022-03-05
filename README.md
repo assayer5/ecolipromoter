@@ -19,5 +19,6 @@ Bernoulli Naive Bayes Classifier
 
 ### Resources
 [Kaggle](https://www.kaggle.com/)
+
 [UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set](https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+%28Promoter+Gene+Sequences%29\
 )
