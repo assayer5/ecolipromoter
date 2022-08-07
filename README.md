@@ -1,8 +1,8 @@
 # Project: E. coli Promoter Sequence Classification
 
 ### Overview
-Classified E. coli sequences as promoter or non-promoter using k-mer counting and a naive bayes classifier on the UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set.
-Final model scored a mean accuracy of 0.9125 with 5-fold cross validation and an accuracy of 0.9259 on the test set.
+Classified E. coli sequences as promoter or non-promoter using k-mer counting on the UCI Machine Learning Repository: Molecular Biology (Promoter Gene Sequences) Data Set.
+Naive bayes classifier and logistic regression yielded similar results in 5-fold cross validation and test set accuracy.
 
 ### Language
 Python
@@ -15,7 +15,8 @@ numpy, pandas, sklearn
 - created bag of words model for classifier
 
 ### Model
-Bernoulli Naive Bayes Classifier
+- Bernoulli Naive Bayes Classifier
+- Logistic Regression with L2 Regularization
 
 ### Resources
 [Kaggle](https://www.kaggle.com/)
