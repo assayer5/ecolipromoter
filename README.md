@@ -11,11 +11,11 @@ Python
 numpy, pandas, sklearn
 
 ### Feature Engineering
-- created k-mers of size=5 
+- created k-mers of size=6 
 - created bag of words model for classifier
 
 ### Model
-- Bernoulli Naive Bayes Classifier
+- Multinomial Naive Bayes Classifier
 - Logistic Regression with L2 Regularization
 
 ### Resources
